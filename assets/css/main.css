@@ -355,7 +355,7 @@ input, select, textarea {
 			left: 0;
 			width: 3.5rem;
 			height: 0.1rem;
-			background-color: rgba(255, 255, 255, 0.25);
+			background-color: black(255, 255, 255, 0.25);
 		}
 
 	h1 {
